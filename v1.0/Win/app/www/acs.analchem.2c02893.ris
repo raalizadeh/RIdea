@@ -1,0 +1,24 @@
+
+
+
+
+TY  - JOUR
+T1  - Development of Liquid Chromatographic Retention Index Based on Cocamide Diethanolamine Homologous Series (C(n)-DEA)
+AU  - Aalizadeh, Reza
+AU  - Nikolopoulou, Varvara
+AU  - Thomaidis, Nikolaos S.
+Y1  - 2022/11/08
+PY  - 2022
+DA  - 2022/11/08
+N1  - doi: 10.1021/acs.analchem.2c02893
+DO  - 10.1021/acs.analchem.2c02893
+T2  - Analytical Chemistry
+JF  - Analytical Chemistry
+JO  - Anal. Chem.
+PB  - American Chemical Society
+N2  - There is a growing need for indexing and harmonizing retention time (tR) data in liquid chromatography derived under different conditions to aid in the identification of compounds in high resolution mass spectrometry (HRMS) based suspect and nontarget screening of environmental samples. In this study, a rigorously tested, inexpensive, and simple system-independent retention index (RI) approach is presented for liquid chromatography (LC), based on the cocamide diethanolamine homologous series (C(n = 0–23)-DEA). The validation of the CDEA based RI system was checked rigorously on eight different instrumentation and LC conditions. The RI values were modeled using molecular descriptor free technique based on structural barcoding and convolutional neural network deep learning. The effect of pH on the elution pattern of more than 402 emerging contaminants were studied under diverse LC settings. The uncertainty associated with the CDEA RI model and the pH effect were addressed and the first RI bank based on CDEA calibrants was developed. The proposed RI system was used to enhance identification confidence in suspect and nontarget screening while facilitating successful comparability of retention index data between various LC settings. The CDEA RI app can be accessed at https://github.com/raalizadeh/RIdea.
+AB  - There is a growing need for indexing and harmonizing retention time (tR) data in liquid chromatography derived under different conditions to aid in the identification of compounds in high resolution mass spectrometry (HRMS) based suspect and nontarget screening of environmental samples. In this study, a rigorously tested, inexpensive, and simple system-independent retention index (RI) approach is presented for liquid chromatography (LC), based on the cocamide diethanolamine homologous series (C(n = 0–23)-DEA). The validation of the CDEA based RI system was checked rigorously on eight different instrumentation and LC conditions. The RI values were modeled using molecular descriptor free technique based on structural barcoding and convolutional neural network deep learning. The effect of pH on the elution pattern of more than 402 emerging contaminants were studied under diverse LC settings. The uncertainty associated with the CDEA RI model and the pH effect were addressed and the first RI bank based on CDEA calibrants was developed. The proposed RI system was used to enhance identification confidence in suspect and nontarget screening while facilitating successful comparability of retention index data between various LC settings. The CDEA RI app can be accessed at https://github.com/raalizadeh/RIdea.
+SN  - 0003-2700
+M3  - doi: 10.1021/acs.analchem.2c02893
+UR  - https://doi.org/10.1021/acs.analchem.2c02893
+ER  - 
