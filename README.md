@@ -1,4 +1,4 @@
-# Retention Idex based on Cocamide Diethanolamine homologous series (C(n)-DEA)
+# Retention Index based on Cocamide Diethanolamine homologous series (C(n)-DEA)
 <img
      src= https://github.com/raalizadeh/RIdea/raw/main/v1.0/Win/doc/toc_DEA.png width=450 />
 
